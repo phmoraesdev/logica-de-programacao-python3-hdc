@@ -1,3 +1,5 @@
+# Exercicio 35: simule um caixa eletronico que calcula 
+# quantas notas de R$100, 50, 20, 10 e 1 sao necessarias para um saque
 saque = int(input("Digite quanto quer sacar: "))
 
 nota1 = 0

@@ -1,4 +1,5 @@
-# print do 0 ate o numero que o usuario escolheu
+# Exercicio 30: peça um numero ao usuario e 
+# imprima de 0 ate esse numero usando while
 fim = int(input("Entre com umm numero: "))
 inicio = 0
 

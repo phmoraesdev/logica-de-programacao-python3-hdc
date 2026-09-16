@@ -1,8 +1,6 @@
-# crie uma lsita com 5 valores zerados
-# faca um loop para percorrer a lista e preencha os valores zerados
-# os valores devem ser inseridos pelo usuario
-# imprima o resultao final com print
-
+# Exercicio 37: crie uma lista com 5 valores zerados e, 
+# usando um loop, preencha cada posicao com um valor
+# digitado pelo usuario; ao final, imprima a lista resultante
 lista = [0, 0, 0, 0, 0]
 
 print(lista)

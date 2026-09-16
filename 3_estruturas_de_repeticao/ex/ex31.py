@@ -1,3 +1,5 @@
+# Exercicio 31: imprima apenas os numeros pares 
+# de 1 ate 50 usando while
 num = 1
 
 while num <= 50:

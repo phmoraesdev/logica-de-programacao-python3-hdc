@@ -1,3 +1,5 @@
+# Exercicio 27: peça a renda do usuario e 
+# defina o limite do cartao de credito de acordo com faixas de renda
 renda = float(input("Entre com a sua renda: "))
 print(renda)
 

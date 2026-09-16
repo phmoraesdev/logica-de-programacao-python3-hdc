@@ -1,3 +1,5 @@
+# Exercicio 33: peça numeros ao usuario repetidamente 
+# e saia do loop com break quando ele digitar 0
 i = 0
 
 while i < 1:

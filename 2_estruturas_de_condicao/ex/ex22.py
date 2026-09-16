@@ -1,3 +1,5 @@
+# Exercicio 22: peça dois numeros e diga qual 
+# e o maior, ou se sao iguais
 num1 = int(input("Entre com o primeiro numero: "))
 num2 = int(input("Entre com o segundo numero: "))
 

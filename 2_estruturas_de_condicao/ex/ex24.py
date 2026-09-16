@@ -1,3 +1,6 @@
+# Exercicio 24: peça dois numeros, 
+# multiplique-os e classifique 
+# o resultado como alto (>=100) ou baixo
 num1 = int(input("Entre com o primeiro numero: "))
 num2 = int(input("Entre com o segundo numero: "))
 

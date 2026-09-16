@@ -1,3 +1,5 @@
+# Exercicio 34: peça um numero e verifique se ele e primo, 
+# contando quantos divisores ele possui
 num = int(input("Digite um numero: "))
 
 divisoes = 0

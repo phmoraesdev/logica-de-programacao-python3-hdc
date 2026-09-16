@@ -1,3 +1,5 @@
+# Exercicio 36: percorra uma lista de notas usando while 
+# e calcule a media do aluno
 notas = [5, 9, 7, 4, 8]
 print(notas)
 

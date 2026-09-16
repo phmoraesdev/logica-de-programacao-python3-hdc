@@ -1,4 +1,4 @@
-# print do 20 ate 0
+# Exercicio 29: imprima os numeros de 20 ate 0 (decrescente) usando while
 x = 20
 
 while x >= 0:

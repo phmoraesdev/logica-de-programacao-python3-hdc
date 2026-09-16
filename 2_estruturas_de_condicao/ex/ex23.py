@@ -1,3 +1,5 @@
+# Exercicio 23: peça um salario e diga se 
+# e necessario pagar imposto de renda (acima de 1800)
 salario = float(input("Entre com o valor do salario: "))
 
 if salario > 1800:
