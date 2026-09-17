@@ -1,12 +1,7 @@
+# o IF testa uma condicao, caso forverdadeira,
+# executa o bloco de codigo associado
 if 10 > 5:
     print("Entrou no if!")
-
-if 5 > 10:
-    print("Entrou no if! 2")
-print("Fora da identacao")
-
-if 5 == 5:
-    print("Entrou no if! 3")
 
 nome = "Pedro"
 idade = 20
