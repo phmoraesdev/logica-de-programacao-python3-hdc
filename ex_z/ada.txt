@@ -1,0 +1,6 @@
+Conteúdos programáticos: Programação básica 
+(variáveis, constantes, condições, repetições, strings e vetores). 
+A pessoa candidata poderá escolher no momento da prova entre as seguintes linguagens:
+Swift, Python 2 ou 3, C#, C/C++, Java, Perl, Ruby, PowerShell, TypeScript (Node),
+Javascript (Node), PHP, Scala, Erlang, Elixir, Clojure, Go, Bash, Kotlin, 
+Objective-C e VB NET.

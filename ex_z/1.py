@@ -1,10 +1,11 @@
-# You are given an integer N where 0 <= N <= 100, followed by another line of input 
-# which has a word W with length L where 1 <= L <= 50. Your task is to print N lines with 
-# the word W. The lines of your output should not have any trailing or leading spaces.
-# Your output lines should not have any trailing or leading whitespace
+# Você recebe um número inteiro N onde 0 <= N <= 100, seguido por outra
+# linha de entrada que contém uma palavra W com comprimento L onde
+# 1 <= L <= 50. Sua tarefa é imprimir N linhas com a palavra W. As linhas
+# da sua saída não devem ter espaços à esquerda ou à direita. Suas linhas
+# de saída não devem ter espaços em branco no início ou no fim.
 
-n = int(input(""))
-w = (input("")).strip()
+n = int(input())
+w = (input()).strip()
 
 for i in range(n):
     print(w)
