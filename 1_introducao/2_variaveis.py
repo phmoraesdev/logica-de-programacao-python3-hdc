@@ -6,8 +6,6 @@ idade = 20 # tipo INT, numeros inteiro
 altura = 1.70 # tipo FLOAT, numeros de ponto flutuante
 inf = True # tipo BOOLEAN, verdadeiro ou falso
 
-
-
 print(nome) # printando a variavel
 print(type(nome)) # printando o tipo da variavel
 

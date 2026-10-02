@@ -1,3 +1,3 @@
 # print e uma funcao pronta do python que
-# mostra uma mensagem no terminal
+# mostra um argumento no terminal
 print("Hello World!")

@@ -1,4 +1,4 @@
-# o IF testa uma condicao, caso forverdadeira,
+# o IF testa uma condicao, caso for verdadeira,
 # executa o bloco de codigo associado
 if 10 > 5:
     print("Entrou no if!")
